@@ -1,43 +1,33 @@
-# Health Queue System (Health Que)
+# 🏛️ KIROV DYNAMICS | HEALTH QUEUE SENTINEL
 
-A straightforward, user-friendly digital queue management tool aimed at healthcare facilities. It assists in organizing patient flow, minimizing waiting periods, and enhancing service delivery in hospitals and clinics.
+[![Kirov Dynamics](https://img.shields.io/badge/Kirov_Dynamics-Sovereign_Intelligence-002D62?style=for-the-badge&labelColor=0d1117)](https://github.com/Raphasha27)
+![Status](https://img.shields.io/badge/Status-🚀_Active-3fb950?style=for-the-badge&labelColor=0d1117)
 
-# Features
+> **"Sovereign Flow for Equitable Healthcare."**
 
--  Patient check-in feature with queue number assignment
--  Staff interface to summon the next patient
--  Real-time monitoring of the queue
--  Sleek and responsive design (suitable for both desktop and tablet)
--  Optional analytics for tracking patient wait times and service statistics
+---
+A straightforward, user-friendly digital queue management tool aimed at healthcare facilities. It assists in organizing patient flow, minimizing waiting periods, and enhancing service delivery in hospitals and clinics. Developed as a critical public health asset within the **Kirov Dynamics** infrastructure.
 
-# Tech Stack
+## ✨ Features
 
-- Python / JavaScript (depending on your implementation choice)
-- Flask / Django / Node.js (backend framework)
-- HTML / CSS / Bootstrap (frontend development)
-- SQLite / MySQL (database options)
-- Optional: Streamlit or Gradio (for prototyping/demo purposes)
+- **✅ Patient Check-in**: Automatic queue number assignment.
+- **📣 Staff Interface**: One-click summoning for the next patient.
+- **📊 Real-time Monitoring**: Live HUD for queue status.
+- **📱 Responsive Design**: Optimized for desktop, tablet, and mobile displays.
+- **📈 Analytics (v2.0)**: Advanced tracking for wait times and service efficiency.
 
-# Project Structure
-```bash
-health-que-system/
-├── app/ # Core application files
-│ ├── templates/ # HTML layouts
-│ ├── static/ # CSS, JS, images
-│ ├── models.py # Database models
-│ ├── routes.py # Application routes/views
-│ └── utils.py # Utility functions
-├── config.py # Application configuration
-├── requirements.txt # Python package dependencies
-├── README.md # Project documentation
-└── run.py # Application start script
-```
+## 🛠️ Tech Stack
 
-# Setup Instructions
+- **Backend**: Python / FastAPI / Flask
+- **Frontend**: HTML5 / CSS3 / JavaScript
+- **Database**: SQLite / PostgreSQL
+- **Security**: POPIA & HIPAA Compliance Standards
+
+## 🚀 Getting Started
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Spado22/health-que-system.git
+   git clone https://github.com/Raphasha27/health-que-system.git
    cd health-que-system
    ```
 
@@ -51,28 +41,5 @@ health-que-system/
    python run.py
    ```
 
-4. **Access the Application**
-   Open your web browser and navigate to: https://github.com/Spado22/Health-Que-System
-
- Use Case Scenarios
-- Government or private clinics
-- Outpatient departments in hospitals
-- Mobile or temporary clinics
-- Community health initiatives
-
- Ethical Use & Privacy
-- Ensure all patient information is managed securely
-- Avoid retaining personal health information without encryption
-- Adhere to local health data privacy laws (such as POPIA, HIPAA)
-
- Contributing
-We invite contributions! Please fork the repository, create a new branch, and submit your pull request with enhancements.
-
- License
-This project is released under the MIT License.
-
-Designed for effective and equitable healthcare access. 
-
 ---
-
-Would you like a version tailored for **Streamlit** or a **mobile-first** 
+*Developed by Raphasha27 - Kirov Dynamics 2026.*
